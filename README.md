@@ -1,4 +1,4 @@
-Name: Nuthan A(Mobile App Development intern at TSF)
+Name: Rishav kumar(Mobile App Development intern at TSF)
 
 Task 1: Basic Banking System.
 A Web Application used to transfer money between multiple users.  
